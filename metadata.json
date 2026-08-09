@@ -1,0 +1,6 @@
+{
+  "name": "DhanBox - ₹200 Bonus Earning App",
+  "description": "Rupee earning rewards application featuring ₹200 instant welcome bonus, daily spin, scratch cards, tasks, UPI withdrawal, and public community box (Public Dibba) with live chat and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
